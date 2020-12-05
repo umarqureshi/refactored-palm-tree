@@ -1,0 +1,28 @@
+{
+  "summary": {
+    "title": "This_is_an_example",
+    "owner": "Umar",
+    "description": "This is the high-level description of threat modelling....."
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Umar"
+      },
+      {
+        "name": "Simon"
+      },
+      {
+        "name": "Adam"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Example",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Simon"
+  }
+}
