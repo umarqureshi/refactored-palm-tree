@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "MLAP Threat model",
+    "owner": "Umar Qureshi"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "simon.heron@digital.justice.gov.uk"
+      },
+      {
+        "name": "adam.crofts@digital.justice.gov.uk"
+      }
+    ],
+    "diagrams": [],
+    "reviewer": "Simon Heron"
+  }
+}
