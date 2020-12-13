@@ -1,15 +1,16 @@
 {
   "summary": {
     "title": "MLAP Threat model",
-    "owner": "Umar Qureshi"
+    "owner": "Umar Qureshi",
+    "description": "The proposed system will collate logging data from Ministry of Justice systems and services, store them centrally, and allow their processing and analysis by MoJ security staff, to provide more effective and joined-up security for our systems\n\nA comprehensive guidance page is available on the MoJ intranet, where it clearly sets out types of logging data from all different types of infrastructures and platforms that the proposed solution will look to capture and provide capability to access, monitor and analyse . Link for the page as below:\n\nhttps://ministryofjustice.github.io/security-guidance/#security-log-collection\n\nAt present, this data is collected in a significant number of separate locations, some of which are controlled by the 3rd party suppliers.\n\nThe proposed system will supplement the existing arrangements to allow protective monitoring, alerting and investigations across the MoJ’s IT estates."
   },
   "detail": {
     "contributors": [
       {
-        "name": "simon.heron@digital.justice.gov.uk"
+        "name": "Simon Heron"
       },
       {
-        "name": "adam.crofts@digital.justice.gov.uk"
+        "name": "Adam Crofts"
       }
     ],
     "diagrams": [],
