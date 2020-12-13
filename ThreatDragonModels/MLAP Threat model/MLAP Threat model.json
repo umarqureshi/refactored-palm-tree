@@ -13,7 +13,13 @@
         "name": "Adam Crofts"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "MoJ Log Aggregation Platform (MLAP)",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Simon Heron"
   }
 }
