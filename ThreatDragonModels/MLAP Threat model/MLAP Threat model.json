@@ -165,6 +165,7 @@
               "id": "5933cec7-89c5-4d69-9249-171c0a9001ef",
               "z": 5,
               "hasOpenThreats": false,
+              "outOfScope": false,
               "attrs": {
                 ".element-shape": {
                   "class": "element-shape hasNoOpenThreats isInScope"
