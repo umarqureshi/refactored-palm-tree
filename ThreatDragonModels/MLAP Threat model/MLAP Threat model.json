@@ -27,8 +27,8 @@
                 "height": 80
               },
               "position": {
-                "x": 50,
-                "y": 50
+                "x": 46,
+                "y": 41
               },
               "angle": 0,
               "id": "5327ced6-d213-4ac0-9e56-9f4faf0ba735",
@@ -66,6 +66,58 @@
                 },
                 "text": {
                   "text": "Process 2"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 49,
+                "y": 136
+              },
+              "angle": 0,
+              "id": "f79e3cf5-7aaa-4f71-9f6b-dd4d35c8598e",
+              "z": 3,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Kibana MoJ regular user\n(MoJ VPN access)"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Actor",
+              "size": {
+                "width": 160,
+                "height": 80
+              },
+              "position": {
+                "x": 50,
+                "y": 228
+              },
+              "angle": 0,
+              "id": "150f7947-54ca-48c5-875e-827b9905a7fc",
+              "z": 4,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isInScope"
+                },
+                "text": {
+                  "text": "Supplier user"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
