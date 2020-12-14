@@ -39,7 +39,7 @@
                   "class": "element-shape hasNoOpenThreats isInScope"
                 },
                 "text": {
-                  "text": "actor 1"
+                  "text": "Kibana MoJ admin user\n(MoJ VPN access)"
                 },
                 ".element-text": {
                   "class": "element-text hasNoOpenThreats isInScope"
