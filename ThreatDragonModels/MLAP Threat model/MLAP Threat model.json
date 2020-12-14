@@ -42,6 +42,14 @@
                   "type": "Information disclosure",
                   "description": "The administrator can disclose Information, either accidentally or intentionally.",
                   "mitigation": "Job rotation, mandatory holiday, more than one admin"
+                },
+                {
+                  "status": "Open",
+                  "severity": "Low",
+                  "title": "DoS accidental deletion of data",
+                  "type": "Denial of service",
+                  "description": "The administrator can accidentally delete data and lose service to important logs.",
+                  "mitigation": "Peer review of updates?"
                 }
               ],
               "attrs": {
